@@ -1,6 +1,4 @@
 # Bangla-Clickbait-Detector-App
-Bangla Clickbait Detection app made with Streamlit using GAN-Transformer model. This app is not yet runnable as the main model.py file will
-be uploaded when its corresponding thesis paper is published.
 
 ## Demo
   [![Alt text](https://github.com/MotaharMahtab/Bangla-Clickbait-Detector-App/blob/main/clickbait_detection_demo.gif)

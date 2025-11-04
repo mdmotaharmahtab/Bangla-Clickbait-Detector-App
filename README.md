@@ -1,7 +1,7 @@
 # Bangla-Clickbait-Detector-App
 
 ## Demo
-  [![Alt text](https://github.com/MotaharMahtab/Bangla-Clickbait-Detector-App/blob/main/clickbait_detection_demo.gif)
+![Alt text](https://github.com/MotaharMahtab/Bangla-Clickbait-Detector-App/blob/main/clickbait_detection_demo.gif)
 
 [Streamlit website](https://www.streamlit.io/)
 
